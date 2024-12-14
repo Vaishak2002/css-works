@@ -1,0 +1,35 @@
+/* h1{
+   color: #44328d;
+   text-align: center;
+   text-decoration:underline;
+} */
+
+span{
+    color: aqua;
+    text-align: center;
+    text-decoration: line-through;
+    
+}
+#first{
+    color: aqua;
+    text-align: center;
+}
+#second{
+    color: yellowgreen;
+    text-align: center;
+}
+
+.danger{
+    color: #e01414;
+    text-align: center;
+    
+}
+
+.success{
+    color: green;
+    text-align: center;
+}
+
+.text-dec-underline{
+    text-decoration: underline;
+}

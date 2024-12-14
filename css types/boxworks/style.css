@@ -1,0 +1,15 @@
+.border{
+    border: 1px solid black;
+}
+
+.parent{
+    background-color: blue;
+    width: 100%;
+    height: 300px;
+}
+
+.child{
+    background-color: brown;
+    width: 50%;
+    height: 150px;
+}
